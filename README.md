@@ -1,2 +1,3 @@
 # Git-Genius
-creating readme files.by saquib
+creating readme files.
+by saquib
